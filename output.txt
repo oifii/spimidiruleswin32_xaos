@@ -1,0 +1,17 @@
+Q49 maps to 11
+MIDI input devices:
+1: MMSystem, In From MIDI Yoke:  1
+2: MMSystem, In From MIDI Yoke:  2
+3: MMSystem, In From MIDI Yoke:  3
+4: MMSystem, In From MIDI Yoke:  4
+5: MMSystem, In From MIDI Yoke:  5
+6: MMSystem, In From MIDI Yoke:  6
+7: MMSystem, In From MIDI Yoke:  7
+8: MMSystem, In From MIDI Yoke:  8
+9: MMSystem, E-DSP MIDI Port [FFC0]
+10: MMSystem, E-DSP MIDI Port 2 [FFC0]
+11: MMSystem, Q49
+device 11 selected
+spimidiruleswin32 ready.
+NoteOn  Chan  0 Key  60 c4  Vel 73
+NoteOff Chan  0 Key  60 c4  Vel 64
